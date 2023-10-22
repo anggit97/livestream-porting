@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.qcloud.tuikit.tuibarrage" >
+4
+5    <uses-sdk android:minSdkVersion="22" />
+5-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.WAKE_LOCK" />
+7-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:5:5-68
+7-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:5:22-65
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:6:5-67
+8-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:6:22-64
+9
+10    <application>
+10-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:8:5-14:19
+11        <provider
+11-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:9:9-13:40
+12            android:name="com.tencent.qcloud.tuikit.tuibarrage.core.TUIBarrageProvider"
+12-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:10:13-52
+13            android:authorities="${applicationId}.TUIBarrageProvider"
+13-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:11:13-70
+14            android:enabled="true"
+14-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:12:13-35
+15            android:exported="false" />
+15-->/Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:13:13-37
+16    </application>
+17
+18</manifest>

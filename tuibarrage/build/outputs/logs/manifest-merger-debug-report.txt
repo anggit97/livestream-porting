@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+		INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:8:5-14:19
+provider#com.tencent.qcloud.tuikit.tuibarrage.core.TUIBarrageProvider
+ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:9:9-13:40
+	android:enabled
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:12:13-35
+	android:authorities
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:11:13-70
+	android:exported
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml:10:13-52
+uses-sdk
+INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+		INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+		ADDED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml
+		INJECTED from /Users/anggitprayogo/Documents/rnd/android/TUILiveStream/tuibarrage/src/main/AndroidManifest.xml

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tencent.qcloud.tuikit.tuibarrage" >
+
+    <uses-sdk android:minSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application>
+        <provider
+            android:name="com.tencent.qcloud.tuikit.tuibarrage.core.TUIBarrageProvider"
+            android:authorities="dollar_openBracket_applicationId_closeBracket.TUIBarrageProvider"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

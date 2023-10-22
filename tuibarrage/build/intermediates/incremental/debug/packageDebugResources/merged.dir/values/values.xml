@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tuibarrage_bg_send_view">#B4FFFFFF</color>
+    <color name="tuibarrage_color_black">#000000</color>
+    <color name="tuibarrage_color_half_black">#44777777</color>
+    <color name="tuibarrage_color_msg_1">#3074FD</color>
+    <color name="tuibarrage_color_msg_2">#3CCFA5</color>
+    <color name="tuibarrage_color_msg_3">#FF8607</color>
+    <color name="tuibarrage_color_msg_4">#F7AF97</color>
+    <color name="tuibarrage_color_msg_5">#FF8BB7</color>
+    <color name="tuibarrage_color_msg_6">#FC6091</color>
+    <color name="tuibarrage_color_msg_7">#FCAF41</color>
+    <color name="tuibarrage_color_white">#FFFFFFFF</color>
+    <color name="tuichorus_transparent">#00000000</color>
+    <string name="tuibarrage_agree">Agree</string>
+    <string name="tuibarrage_btn_send">Send</string>
+    <string name="tuibarrage_input_hint">Please enter barrage</string>
+    <string name="tuibarrage_me">Me</string>
+    <string name="tuibarrage_warning_not_empty">"input can't be empty!"</string>
+    <style name="TUIBarrageInputDialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>
